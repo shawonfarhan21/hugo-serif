@@ -8,3 +8,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- content/want-local-3-pack-rankings-and-more-sales.md
